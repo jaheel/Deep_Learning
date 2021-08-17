@@ -20,7 +20,7 @@
 
 * [R-CNN](/Object_Detection/R-CNN/R-CNN.md)
 * [SPPNet](/Object_Detection/SPPNet/SPPNet.md)
-* [Fast R-CNN](/Object_Detection/Fast_R-CNN/Fast R-CNN.md)
+* [Fast R-CNN](/Object_Detection/Fast_R-CNN/Fast_R-CNN.md)
 
 
 
