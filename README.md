@@ -11,8 +11,8 @@
 * [OverFeat](Classification/OverFeat/OverFeat.md)
 * [NIN](Classification/NIN/NIN.md)
 * [VGG](/Classification/VGG/VGG.md)
-* [GoogLeNet v1](Classification/GoogLeNet v1/GoogLeNet_v1.md)
-* [GoogLeNet v2](/Classification/GoogLeNet v2/GoogLeNet_v2.md)
+* [GoogLeNet v1](/Classification/GoogLeNet_v1/GoogLeNet_v1.md)
+* [GoogLeNet v2](/Classification/GoogLeNet_v2/GoogLeNet_v2.md)
 
 
 
@@ -20,7 +20,7 @@
 
 * [R-CNN](/Object_Detection/R-CNN/R-CNN.md)
 * [SPPNet](/Object_Detection/SPPNet/SPPNet.md)
-* [Fast R-CNN](/Object_Detection/Fast R-CNN/Fast R-CNN.md)
+* [Fast R-CNN](/Object_Detection/Fast_R-CNN/Fast R-CNN.md)
 
 
 
