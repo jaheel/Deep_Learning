@@ -13,6 +13,7 @@
 * [VGG](/Classification/VGG/VGG.md)
 * [GoogLeNet v1](/Classification/GoogLeNet_v1/GoogLeNet_v1.md)
 * [GoogLeNet v2](/Classification/GoogLeNet_v2/GoogLeNet_v2.md)
+* [GoogLeNet_v3](/Classification/GoogLeNet_v3/GoogLeNet_v3.md)
 
 
 
