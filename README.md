@@ -16,6 +16,7 @@
 * [GoogLeNet_v3](/Classification/GoogLeNet_v3/GoogLeNet_v3.md)
 * [ResNet](/Classification/ResNet/ResNet.md)
 * [ResNet_v2](/Classification/ResNet_v2/ResNet_v2.md)
+* [GoogLeNet_v4](/Classification/GoogLeNet_v4/GoogLeNet_v4.md)
 
 
 
@@ -28,6 +29,7 @@
 * [YOLO_v1](/Object_Detection/YOLO_v1/YOLO_v1.md)
 * [SSD](/Object_Detection/SSD/SSD.md)
 * [R-FCN](/Object_Detection/R-FCN/R-FCN.md)
+* [FPN](/Object_Detection/FPN/FPN.md)
 
 
 
