@@ -20,6 +20,7 @@
 * [ResNeXt](/Classification/ResNeXt/ResNeXt.md)
 * [DenseNet](/Classification/DenseNet/DenseNet.md)
 * [Xception](/Classification/Xception/Xception.md)
+* [MobileNet v1](/Classification/MobileNet_v1/MobileNet_v1.md)
 
 
 
