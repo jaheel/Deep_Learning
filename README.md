@@ -17,6 +17,7 @@
 * [ResNet](/Classification/ResNet/ResNet.md)
 * [ResNet_v2](/Classification/ResNet_v2/ResNet_v2.md)
 * [GoogLeNet_v4](/Classification/GoogLeNet_v4/GoogLeNet_v4.md)
+* [ResNeXt](/Classification/ResNeXt/ResNeXt.md)
 
 
 
