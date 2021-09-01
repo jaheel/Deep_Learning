@@ -34,6 +34,7 @@
 * [SSD](/Object_Detection/SSD/SSD.md)
 * [R-FCN](/Object_Detection/R-FCN/R-FCN.md)
 * [FPN](/Object_Detection/FPN/FPN.md)
+* [YOLO v2](/Object_Detection/YOLO_v2/YOLO_v2.md)
 
 
 
