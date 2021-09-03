@@ -22,6 +22,7 @@
 * [Xception](/Classification/Xception/Xception.md)
 * [MobileNet v1](/Classification/MobileNet_v1/MobileNet_v1.md)
 * [SENet](/Classification/SENet/SENet.md)
+* [ShuffleNet v1](/Classification/ShuffleNet/ShuffleNet.md)
 * [CBAM](/Classification/CBAM/CBAM.md)
 
 
