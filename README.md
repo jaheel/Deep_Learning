@@ -24,6 +24,7 @@
 * [SENet](/Classification/SENet/SENet.md)
 * [ShuffleNet v1](/Classification/ShuffleNet/ShuffleNet.md)
 * [CBAM](/Classification/CBAM/CBAM.md)
+* [ShuffleNet v2](/Classification/ShuffleNet_v2/ShuffleNet_v2.md)
 
 
 
