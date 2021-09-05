@@ -26,6 +26,7 @@
 * [CBAM](/Classification/CBAM/CBAM.md)
 * [ShuffleNet v2](/Classification/ShuffleNet_v2/ShuffleNet_v2.md)
 * [SKNet](/Classification/SKNet/SKNet.md)
+* [MobileNet v2](/Classification/MobileNet_v2/MobileNet_v2.md)
 
 
 
