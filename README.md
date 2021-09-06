@@ -45,6 +45,7 @@
 * [YOLO v3](/Object_Detection/YOLO_v3/YOLO_v3.md)
 * [CornerNet](/Object_Detection/CornerNet/CornerNet.md)
 * [FCOS](/Object_Detection/FCOS/FCOS.md)
+* [CenterNet](/Object_Detection/CenterNet/CenterNet.md)
 
 
 
