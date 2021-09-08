@@ -29,6 +29,7 @@
 * [MobileNet v2](/Classification/MobileNet_v2/MobileNet_v2.md)
 * [MobileNet v3](/Classification/MobileNet_v3/MobileNet_v3.md)
 * [EfficientNet](/Classification/EfficientNet/EfficientNet.md)
+* [ECANet](/Classification/ECANet/ECANet.md)
 
 
 
