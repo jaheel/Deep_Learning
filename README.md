@@ -49,6 +49,7 @@
 * [CornerNet](/Object_Detection/CornerNet/CornerNet.md)
 * [FCOS](/Object_Detection/FCOS/FCOS.md)
 * [CenterNet](/Object_Detection/CenterNet/CenterNet.md)
+* [EfficientDet](/Object_Detection/EfficientDet/EfficientDet.md)
 * [DETR](/Object_Detection/DETR/DETR.md)
 
 
