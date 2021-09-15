@@ -59,6 +59,7 @@
 
 * [UNet](/Semantic_Segmentation/UNet/)
 * [FCN](/Semantic_Segmentation/FCN/)
+* [SegNet](/Semantic_Segmentation/SegNet/SegNet.md)
 
 
 
