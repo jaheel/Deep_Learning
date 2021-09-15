@@ -1,5 +1,5 @@
 # Deep_Learning
-致力于深度学习分类、检测领域经典论文的主要思想翻译和理解点提炼，旨在通过领域论文将其系统化建构，提高学习复用率。
+致力于深度学习细分领域经典论文的主要思想翻译和理解点提炼，旨在通过领域论文将其系统化建构，提高学习复用率。
 
 
 
@@ -60,6 +60,12 @@
 * [UNet](/Semantic_Segmentation/UNet/)
 * [FCN](/Semantic_Segmentation/FCN/)
 * [SegNet](/Semantic_Segmentation/SegNet/SegNet.md)
+
+
+
+## Person Re-ID
+
+* [Survey](/person_Re-ID/Re-ID_survey/survey.md)
 
 
 
