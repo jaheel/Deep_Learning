@@ -90,6 +90,14 @@
 
 
 
+## Medical Imaging
+
+| Method | 翻译                           | Code | Manager                            | e-mail               |
+| ------ | ------------------------------ | ---- | ---------------------------------- | -------------------- |
+| Survey | [翻译](Medical_Imaging/Survey) |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+
+
+
 # Appendix
 
 欢迎关注微信公众号：繁星的人工智能厨房
