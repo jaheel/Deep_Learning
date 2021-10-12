@@ -66,19 +66,19 @@
 
 ## Semantic Segmentation
 
-| Method | 翻译                                            | Code | Manager | e-mail |
-| ------ | ----------------------------------------------- | ---- | ------- | ------ |
-| UNet   | [翻译](/Semantic_Segmentation/UNet/)            |      |         |        |
-| FCN    | [翻译](/Semantic_Segmentation/FCN/)             |      |         |        |
-| SegNet | [翻译](/Semantic_Segmentation/SegNet/SegNet.md) |      |         |        |
+| Method | 翻译                                            | Code | Manager                               | e-mail           |
+| ------ | ----------------------------------------------- | ---- | ------------------------------------- | ---------------- |
+| UNet   | [翻译](/Semantic_Segmentation/UNet/)            |      | [@VViolin](https://github.com/wiolin) | 646163701@qq.com |
+| FCN    | [翻译](/Semantic_Segmentation/FCN/)             |      | [@VViolin](https://github.com/wiolin) | 646163701@qq.com |
+| SegNet | [翻译](/Semantic_Segmentation/SegNet/SegNet.md) |      | [@VViolin](https://github.com/wiolin) | 646163701@qq.com |
 
 
 
 ## Person Re-ID
 
-| Method | 翻译                                         | Code | Manager | e-mail |
-| ------ | -------------------------------------------- | ---- | ------- | ------ |
-| Survey | [翻译](/person_Re-ID/Re-ID_survey/survey.md) |      |         |        |
+| Method | 翻译                                         | Code | Manager                                    | e-mail            |
+| ------ | -------------------------------------------- | ---- | ------------------------------------------ | ----------------- |
+| Survey | [翻译](/person_Re-ID/Re-ID_survey/survey.md) |      | [@chenhy998](https://github.com/chenhy998) | 1044966973@qq.com |
 
 
 
