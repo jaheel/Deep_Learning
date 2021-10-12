@@ -78,7 +78,15 @@
 
 | Method | 翻译                                         | Code | Manager                                    | e-mail            |
 | ------ | -------------------------------------------- | ---- | ------------------------------------------ | ----------------- |
-| Survey | [翻译](/person_Re-ID/Re-ID_survey/survey.md) |      | [@chenhy998](https://github.com/chenhy998) | 1044966973@qq.com |
+| Survey | [翻译](/Person_Re-ID/Re-ID_survey/survey.md) |      | [@chenhy998](https://github.com/chenhy998) | 1044966973@qq.com |
+
+
+
+## Person Detection
+
+| Method | 翻译                           | Code | Manager                                    | e-mail            |
+| ------ | ------------------------------ | ---- | ------------------------------------------ | ----------------- |
+| DETR   | [翻译](/Person_Detection/DETR) |      | [@chenhy998](https://github.com/chenhy998) | 1044966973@qq.com |
 
 
 
