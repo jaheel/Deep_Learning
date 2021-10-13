@@ -6,7 +6,9 @@
 
 
 
-## Classification
+## Domain
+
+### Classification
 
 | Method        | 翻译                                                   | Code | Manager                            | e-mail               |
 | ------------- | ------------------------------------------------------ | ---- | ---------------------------------- | -------------------- |
@@ -38,7 +40,7 @@
 
 
 
-## Object Detection
+### Object Detection
 
 | Method       | 翻译                                                   | Code | Manager                            | e-mail               |
 | ------------ | ------------------------------------------------------ | ---- | ---------------------------------- | -------------------- |
@@ -64,7 +66,7 @@
 
 
 
-## Semantic Segmentation
+### Semantic Segmentation
 
 | Method | 翻译                                            | Code | Manager                               | e-mail           |
 | ------ | ----------------------------------------------- | ---- | ------------------------------------- | ---------------- |
@@ -74,7 +76,7 @@
 
 
 
-## Person Re-ID
+### Person Re-ID
 
 | Method | 翻译                                         | Code | Manager                                    | e-mail            |
 | ------ | -------------------------------------------- | ---- | ------------------------------------------ | ----------------- |
@@ -82,7 +84,7 @@
 
 
 
-## Person Detection
+### Person Detection
 
 | Method | 翻译                           | Code | Manager                                    | e-mail            |
 | ------ | ------------------------------ | ---- | ------------------------------------------ | ----------------- |
@@ -90,11 +92,29 @@
 
 
 
-## Medical Imaging
+### Medical Imaging
 
 | Method | 翻译                           | Code | Manager                            | e-mail               |
 | ------ | ------------------------------ | ---- | ---------------------------------- | -------------------- |
 | Survey | [翻译](Medical_Imaging/Survey) |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+
+
+
+
+
+## Activation Function
+
+| Method  | Theory                                 | Code | Manager                            | e-mail               |
+| ------- | -------------------------------------- | ---- | ---------------------------------- | -------------------- |
+| Summary | [Theory](/Activation_Function/Summary) |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+
+
+
+## Optimizer
+
+| Method | Theory                          | Code | Manager                            | e-mail               |
+| ------ | ------------------------------- | ---- | ---------------------------------- | -------------------- |
+| SGD    | [Theory](/Optimizer/SGD/Theory) |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 
 
 
