@@ -10,33 +10,33 @@
 
 ### Classification
 
-| Method        | 翻译                                                   | Code | Manager                            | e-mail               |
-| ------------- | ------------------------------------------------------ | ---- | ---------------------------------- | -------------------- |
-| LeNet-5       | [翻译](Classification/LeNet-5/LeNet-5.md)              |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| AlexNet       | [翻译](Classification/AlexNet/AlexNet.md)              |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| ZFNet         | [翻译](Classification/ZFNet/ZFNet.md)                  |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| OverFeat      | [翻译](Classification/OverFeat/OverFeat.md)            |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| NIN           | [翻译](Classification/NIN/NIN.md)                      |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| VGG           | [翻译](/Classification/VGG/VGG.md)                     |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| GoogLeNet v1  | [翻译](/Classification/GoogLeNet_v1/GoogLeNet_v1.md)   |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| GoogLeNet v2  | [翻译](/Classification/GoogLeNet_v2/GoogLeNet_v2.md)   |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| GoogLeNet v3  | [翻译](/Classification/GoogLeNet_v3/GoogLeNet_v3.md)   |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| ResNet        | [翻译](/Classification/ResNet/ResNet.md)               |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| ResNet v2     | [翻译](/Classification/ResNet_v2/ResNet_v2.md)         |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| GoogLeNet v4  | [翻译](/Classification/GoogLeNet_v4/GoogLeNet_v4.md)   |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| ResNeXt       | [翻译](/Classification/ResNeXt/ResNeXt.md)             |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| DenseNet      | [翻译](/Classification/DenseNet/DenseNet.md)           |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| Xception      | [翻译](/Classification/Xception/Xception.md)           |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| MobileNet v1  | [翻译](/Classification/MobileNet_v1/MobileNet_v1.md)   |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| SENet         | [翻译](/Classification/SENet/SENet.md)                 |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| ShuffleNet v1 | [翻译](/Classification/ShuffleNet/ShuffleNet.md)       |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| CBAM          | [翻译](/Classification/CBAM/CBAM.md)                   |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| ShuffleNet v2 | [翻译](/Classification/ShuffleNet_v2/ShuffleNet_v2.md) |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| SKNet         | [翻译](/Classification/SKNet/SKNet.md)                 |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| MobileNet v2  | [翻译](/Classification/MobileNet_v2/MobileNet_v2.md)   |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| MobileNet v3  | [翻译](/Classification/MobileNet_v3/MobileNet_v3.md)   |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| EfficientNet  | [翻译](/Classification/EfficientNet/EfficientNet.md)   |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| ECANet        | [翻译](/Classification/ECANet/ECANet.md)               |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| Method        | 翻译                                                   | Code                                                      | Manager                            | e-mail               |
+| ------------- | ------------------------------------------------------ | --------------------------------------------------------- | ---------------------------------- | -------------------- |
+| LeNet-5       | [翻译](Classification/LeNet-5/LeNet-5.md)              | [Code](Classification/LeNet-5/Code/LeNet.ipynb)           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| AlexNet       | [翻译](Classification/AlexNet/AlexNet.md)              | [Code](/Classification/AlexNet/Code/AlexNet.ipynb)        | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| ZFNet         | [翻译](Classification/ZFNet/ZFNet.md)                  |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| OverFeat      | [翻译](Classification/OverFeat/OverFeat.md)            |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| NIN           | [翻译](Classification/NIN/NIN.md)                      | [Code](/Classification/NIN/Code/NIN.ipynb)                | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| VGG           | [翻译](/Classification/VGG/VGG.md)                     | [Code](/Classification/VGG/Code/VGG.ipynb)                | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| GoogLeNet v1  | [翻译](/Classification/GoogLeNet_v1/GoogLeNet_v1.md)   | [Code](/Classification/GoogLeNet_v1/Code/GoogLeNet.ipynb) | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| GoogLeNet v2  | [翻译](/Classification/GoogLeNet_v2/GoogLeNet_v2.md)   | [Code/BN](/Classification/GoogLeNet_v2/Code/BN.ipynb)     | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| GoogLeNet v3  | [翻译](/Classification/GoogLeNet_v3/GoogLeNet_v3.md)   |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| ResNet        | [翻译](/Classification/ResNet/ResNet.md)               | [Code](/Classification/ResNet/Code/resnet.ipynb)          | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| ResNet v2     | [翻译](/Classification/ResNet_v2/ResNet_v2.md)         |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| GoogLeNet v4  | [翻译](/Classification/GoogLeNet_v4/GoogLeNet_v4.md)   |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| ResNeXt       | [翻译](/Classification/ResNeXt/ResNeXt.md)             |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| DenseNet      | [翻译](/Classification/DenseNet/DenseNet.md)           | [Code](/Classification/DenseNet/Code/DenseNet.ipynb)      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| Xception      | [翻译](/Classification/Xception/Xception.md)           |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| MobileNet v1  | [翻译](/Classification/MobileNet_v1/MobileNet_v1.md)   |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| SENet         | [翻译](/Classification/SENet/SENet.md)                 |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| ShuffleNet v1 | [翻译](/Classification/ShuffleNet/ShuffleNet.md)       |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| CBAM          | [翻译](/Classification/CBAM/CBAM.md)                   |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| ShuffleNet v2 | [翻译](/Classification/ShuffleNet_v2/ShuffleNet_v2.md) |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| SKNet         | [翻译](/Classification/SKNet/SKNet.md)                 |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| MobileNet v2  | [翻译](/Classification/MobileNet_v2/MobileNet_v2.md)   |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| MobileNet v3  | [翻译](/Classification/MobileNet_v3/MobileNet_v3.md)   |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| EfficientNet  | [翻译](/Classification/EfficientNet/EfficientNet.md)   |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| ECANet        | [翻译](/Classification/ECANet/ECANet.md)               |                                                           | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 
 
 
