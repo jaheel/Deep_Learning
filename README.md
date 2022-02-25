@@ -42,27 +42,27 @@
 
 ### Object Detection
 
-| Method       | 翻译                                                   | Code | Manager                            | e-mail               |
-| ------------ | ------------------------------------------------------ | ---- | ---------------------------------- | -------------------- |
-| R-CNN        | [翻译](/Object_Detection/R-CNN/R-CNN.md)               |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| SPPNet       | [翻译](/Object_Detection/SPPNet/SPPNet.md)             |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| Fast R-CNN   | [翻译](/Object_Detection/Fast_R-CNN/Fast_R-CNN.md)     |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| Faster R-CNN | [翻译](/Object_Detection/Faster_R-CNN/Faster_R-CNN.md) |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| YOLO v1      | [翻译](/Object_Detection/YOLO_v1/YOLO_v1.md)           |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| SSD          | [翻译](/Object_Detection/SSD/SSD.md)                   |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| R-FCN        | [翻译](/Object_Detection/R-FCN/R-FCN.md)               |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| FPN          | [翻译](/Object_Detection/FPN/FPN.md)                   |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| YOLO v2      | [翻译](/Object_Detection/YOLO_v2/YOLO_v2.md)           |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| RetinaNet    | [翻译](/Object_Detection/RetinaNet/RetinaNet.md)       |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| YOLO v3      | [翻译](/Object_Detection/YOLO_v3/YOLO_v3.md)           |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| CornerNet    | [翻译](/Object_Detection/CornerNet/CornerNet.md)       |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| FCOS         | [翻译](/Object_Detection/FCOS/FCOS.md)                 |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| CenterNet    | [翻译](/Object_Detection/CenterNet/CenterNet.md)       |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| EfficientDet | [翻译](/Object_Detection/EfficientDet/EfficientDet.md) |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| DETR         | [翻译](/Object_Detection/DETR/DETR.md)                 |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| YOLO v4      | [翻译](/Object_Detection/YOLO_v4/YOLO_v4.md)           |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| YOLOF        | [翻译](/Object_Detection/YOLOF/YOLOF.md)               |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| YOLOX        | [翻译](/Object_Detection/YOLOX/YOLOX.md)               |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| Method       | 翻译                                                   | Code | Manager                              | e-mail               |
+| ------------ | ------------------------------------------------------ | ---- | ------------------------------------ | -------------------- |
+| R-CNN        | [翻译](/Object_Detection/R-CNN/R-CNN.md)               |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| SPPNet       | [翻译](/Object_Detection/SPPNet/SPPNet.md)             |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| Fast R-CNN   | [翻译](/Object_Detection/Fast_R-CNN/Fast_R-CNN.md)     |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| Faster R-CNN | [翻译](/Object_Detection/Faster_R-CNN/Faster_R-CNN.md) |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| YOLO v1      | [翻译](/Object_Detection/YOLO_v1/YOLO_v1.md)           |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| SSD          | [翻译](/Object_Detection/SSD/SSD.md)                   |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| R-FCN        | [翻译](/Object_Detection/R-FCN/R-FCN.md)               |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| FPN          | [翻译](/Object_Detection/FPN/FPN.md)                   |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| YOLO v2      | [翻译](/Object_Detection/YOLO_v2/YOLO_v2.md)           |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| RetinaNet    | [翻译](/Object_Detection/RetinaNet/RetinaNet.md)       |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| YOLO v3      | [翻译](/Object_Detection/YOLO_v3/YOLO_v3.md)           |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| CornerNet    | [翻译](/Object_Detection/CornerNet/CornerNet.md)       |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| FCOS         | [翻译](/Object_Detection/FCOS/FCOS.md)                 |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| CenterNet    | [翻译](/Object_Detection/CenterNet/CenterNet.md)       |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| EfficientDet | [翻译](/Object_Detection/EfficientDet/EfficientDet.md) |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| DETR         | [翻译](/Object_Detection/DETR/DETR.md)                 |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| YOLO v4      | [翻译](/Object_Detection/YOLO_v4/YOLO_v4.md)           |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| YOLOF        | [翻译](/Object_Detection/YOLOF/YOLOF.md)               |      | [@Alex](https://github.com/jaheel)   | xufanxin86@gmail.com |
+| YOLOX        | [翻译](/Object_Detection/YOLOX/YOLOX.md)               |      | [@allkkk](https://github.com/allkkk) | 3553160018@qq.com    |
 
 
 
