@@ -62,7 +62,7 @@
 | DETR         | [翻译](/Object_Detection/DETR/DETR.md)                 |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | YOLO v4      | [翻译](/Object_Detection/YOLO_v4/YOLO_v4.md)           |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | YOLOF        | [翻译](/Object_Detection/YOLOF/YOLOF.md)               |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-|              |                                                        |      |                                    |                      |
+| YOLOX        | [翻译](/Object_Detection/YOLOX/YOLOX.md)               |      | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 
 
 

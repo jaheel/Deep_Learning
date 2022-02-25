@@ -28,7 +28,7 @@
 
 ​		我们预测两组heatmaps，一组为top-left corners，一组为bottom-right corners。每组heatmaps拥有$C$个通道，代表$C$个类别，大小为$H \times W$。没有背景通道。每个通道都是一个binary mask，代表类的角点位置。
 
-​		对于每个corner，都有一个ground-truth positive location，所有其他位置就是negative的。在训练期间，我们不是同等的惩罚negative locations，我们减少了针对positive location半径内的negative locations的惩罚。这是因为一对错误的角点预测，如果靠近各自的ground truth locations，它们仍然可以产生一个与ground-truth box重叠的框（如图5所示）。我们通过对象的大小来确定半径，方法是确保半径内的一对points能够生成一个边界框，该边界框至少具有$t$的IoU值（与ground-truth的重叠度）（我们设置为0.7）。给定了半径，惩罚减少数量就由unnormalized 2D Gaussian来决定，$e^{-\frac{x^2+y^2}{2 \sigma^2}}$，中心值即positive location，$\sigma$为半斤的1/3。
+​		对于每个corner，都有一个ground-truth positive location，所有其他位置就是negative的。在训练期间，我们不是同等的惩罚negative locations，我们减少了针对positive location半径内的negative locations的惩罚。这是因为一对错误的角点预测，如果靠近各自的ground truth locations，它们仍然可以产生一个与ground-truth box重叠的框（如图5所示）。我们通过对象的大小来确定半径，方法是确保半径内的一对points能够生成一个边界框，该边界框至少具有$t$的IoU值（与ground-truth的重叠度）（我们设置为0.7）。给定了半径，惩罚减少数量就由unnormalized 2D Gaussian来决定，$e^{-\frac{x^2+y^2}{2 \sigma^2}}$，中心值即positive location，$\sigma$为半径的1/3。
 
 ![image-20210904124712494](images/image-20210904124712494.png)
 
